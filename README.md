@@ -1,2 +1,1 @@
-# Newton-s-Cradle-Project
-I simulated Newton's Cradle! Only been half a year...
+# NC27
